@@ -1,6 +1,7 @@
 import React from 'react'
 import { Article,Brand,Cta,Feature,Navbar} from "./components"
 import { Blog,Features,Footer,Header,Possibility,WhatGPT3 } from './container'
+import './App.css'
 const App = () => {
   return (
     <div className='App'>
